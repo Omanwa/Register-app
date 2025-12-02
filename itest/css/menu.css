@@ -1,0 +1,26 @@
+nav ul{
+	margin:0;
+	padding:0;
+}
+nav ul li{
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:150px;
+	height:60px;
+	text-align:center;
+	line-height:55px;
+	font-size:17px;
+}
+nav ul li a {
+	text-decoration:none;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;
+}
+nav ul li:hover{
+	background-image:url(../images/0e58165cc99ad1d80a7bca2a21e0604f.0.jpg);
+}
+nav ul li:hover a{
+	display:block;
+	color:#000;
+
